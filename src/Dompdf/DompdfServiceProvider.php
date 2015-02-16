@@ -6,7 +6,7 @@ namespace Dompdf;
 define('DOMPDF_ENABLE_AUTOLOAD', false);
 
 // include DOMPDF's default configuration
-require_once '../../vendor/dompdf/dompdf/dompdf_config.inc.php';
+require_once __DIR__.'/../../../../dompdf/dompdf/dompdf_config.inc.php';
 
 use Silex\Application;
 use Silex\ServiceProviderInterface;
