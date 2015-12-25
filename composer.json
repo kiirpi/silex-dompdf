@@ -1,10 +1,14 @@
 {
-    "name": "billotei/silex-dompdf",
+    "name": "kiirpi/silex-dompdf",
     "description": "Silex service for dompdf library",
     "keywords": ["silex", "dompdf", "pdf", "php"],
     "homepage": "https://github.com/BillOTei/silex-dompdf",
     "type": "library",
     "authors": [
+        {
+            "name": "kiirpi",
+            "email": "kiirpisifre@gmail.com"
+        },
         {
             "name": "Bill'O",
             "email": "ateilhet@gmail.com"
